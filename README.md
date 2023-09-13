@@ -1,4 +1,3 @@
-# Shopify-Assignment-Task_1
 # Custom Chocolate Pack Builder
 
 ## Objective
